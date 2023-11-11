@@ -24,7 +24,6 @@ class Player {
     }
 
     Player(String n, int a, double h, String c) {
-        // this();
         this.name = n;
         this.age = a;
         this.height = h;
